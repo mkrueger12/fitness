@@ -34,7 +34,7 @@ Use this journal to log each workout session. Copy the template for each day and
 
 | Exercise | Weight | Reps/Sets | Notes |
 |----------|--------|-----------|-------|
-| Sumo Deadlift | | | |
+| Sumo Deadlift | 135 lbs | 5x5 | RPE 6 |
 | Dips | | | |
 | Split Squat | | | |
 | Shoulder Press | | | |
