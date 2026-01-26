@@ -7,24 +7,14 @@
 
 **Warm-up:** 5-10 min light cardio + dynamic stretching
 
-**A. Sumo Deadlift** (STANDALONE)
-- Warm-up: 2 sets (empty bar → 40% working weight)
-- Working: 3 sets × 6-8 reps @ 0.5×BW
-- Rest: 3 min
-
-**B. SUPERSET** (Repeat 4 times)
-- **B1. Dips:** 8-12 reps (or band-assisted)
-- **B2. Split Squat:** 4-6 reps per leg @ 25% BW per hand
-- Rest: 90 sec, then repeat
-
-**C. SUPERSET** (Repeat 4 times)
-- **C1. Shoulder Press:** 5-7 reps @ 25% BW per hand
-- **C2. Seated Calf Raise:** 8-12 reps @ 50% BW
-- Rest: 90 sec, then repeat
-
-**D. SUPERSET** (Repeat 3 times)
-- **D1. Incline Y Raise:** 5-8 reps @ 10% BW
-- Rest: 60 sec, then repeat
+| Block | Exercise | Sets | Reps | Weight/Load | Rest |
+|-------|----------|------|------|-------------|------|
+| **A** (Standalone) | **Sumo Deadlift** | 2 warm-up<br>3 working | 6-8 | 0.5×BW | 3 min |
+| **B** (Superset×4) | **B1. Dips** | 4 | 8-12 | Bodyweight/assisted | 90 sec after B2 |
+| | **B2. Split Squat** | 4 | 4-6 per leg | 25% BW per hand | |
+| **C** (Superset×4) | **C1. Shoulder Press** | 4 | 5-7 | 25% BW per hand | 90 sec after C2 |
+| | **C2. Seated Calf Raise** | 4 | 8-12 | 50% BW | |
+| **D** (Superset×3) | **D1. Incline Y Raise** | 3 | 5-8 | 10% BW | 60 sec |
 
 **Total Time: ~40-45 minutes**
 
@@ -38,27 +28,15 @@
 
 **Warm-up:** 5-10 min light cardio + scapular pulls, dead hangs
 
-**A. Pull-ups** (STANDALONE)
-- 5 sets × 3-6 reps (or band-assisted/negatives)
-- Rest: 2-3 min between sets
-
-**B. SUPERSET** (Repeat 4 times)
-- **B1. Romanian Deadlift:** 6-8 reps @ 100% BW (or 60-75% BW)
-- **B2. External Rotation:** 6-10 reps @ 10% BW
-- Rest: 2 min, then repeat
-
-**C. Nordic Curls** (STANDALONE)
-- 4-5 sets × Eccentric only (5-sec lower with hand assist)
-- Rest: 2-3 min between sets
-
-**D. SUPERSET** (Repeat 3 times)
-- **D1. Inverted/DB Rows:** 8-12 reps
-- **D2. Face Pulls:** 12-15 reps
-- Rest: 90 sec, then repeat
-
-**E. Hanging Knee Raises** (STANDALONE or skip if tired)
-- 3 sets × 5-8 reps
-- Rest: 60 sec
+| Block | Exercise | Sets | Reps | Weight/Load | Rest |
+|-------|----------|------|------|-------------|------|
+| **A** (Standalone) | **Pull-ups** | 5 | 3-6 | Bodyweight/assisted/negatives | 2-3 min |
+| **B** (Superset×4) | **B1. Romanian Deadlift** | 4 | 6-8 | 100% BW (or 60-75% BW) | 2 min after B2 |
+| | **B2. External Rotation** | 4 | 6-10 | 10% BW | |
+| **C** (Standalone) | **Nordic Curls** | 4-5 | Eccentric only | 5-sec lower w/ hand assist | 2-3 min |
+| **D** (Superset×3) | **D1. Inverted/DB Rows** | 3 | 8-12 | Bodyweight/DBs | 90 sec after D2 |
+| | **D2. Face Pulls** | 3 | 12-15 | Light weight | |
+| **E** (Standalone) | **Hanging Knee Raises** | 3 | 5-8 | Bodyweight (optional) | 60 sec |
 
 **Total Time: ~45-50 minutes**
 
@@ -72,25 +50,16 @@
 
 **Warm-up:** 5-10 min light cardio + dynamic movements
 
-**A. SUPERSET** (Repeat 4 times)
-- **A1. Split Squat:** 4-6 reps per leg @ 25% BW per hand
-- **A2. Dips:** 6-10 reps (lighter volume day)
-- Rest: 2 min, then repeat
-
-**B. SUPERSET** (Repeat 4 times)
-- **B1. Pull-ups:** 3-5 reps (or negatives)
-- **B2. Shoulder Press:** 5-7 reps @ 25% BW per hand
-- Rest: 2 min, then repeat
-
-**C. SUPERSET** (Repeat 4 times)
-- **C1. Seated Calf Raise:** 8-12 reps @ 50% BW
-- **C2. External Rotation:** 6-10 reps @ 10% BW
-- Rest: 60 sec, then repeat
-
-**D. SUPERSET** (Repeat 3 times)
-- **D1. Incline Y Raise:** 5-8 reps @ 10% BW
-- **D2. Dead Bugs:** 10-12 reps per side
-- Rest: 60 sec, then repeat
+| Block | Exercise | Sets | Reps | Weight/Load | Rest |
+|-------|----------|------|------|-------------|------|
+| **A** (Superset×4) | **A1. Split Squat** | 4 | 4-6 per leg | 25% BW per hand | 2 min after A2 |
+| | **A2. Dips** | 4 | 6-10 | Bodyweight (lighter volume) | |
+| **B** (Superset×4) | **B1. Pull-ups** | 4 | 3-5 | Bodyweight/negatives | 2 min after B2 |
+| | **B2. Shoulder Press** | 4 | 5-7 | 25% BW per hand | |
+| **C** (Superset×4) | **C1. Seated Calf Raise** | 4 | 8-12 | 50% BW | 60 sec after C2 |
+| | **C2. External Rotation** | 4 | 6-10 | 10% BW | |
+| **D** (Superset×3) | **D1. Incline Y Raise** | 3 | 5-8 | 10% BW | 60 sec after D2 |
+| | **D2. Dead Bugs** | 3 | 10-12 per side | Bodyweight | |
 
 **Total Time: ~35-40 minutes**
 
