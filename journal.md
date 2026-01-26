@@ -39,7 +39,7 @@ Use this journal to log each workout session. Copy the template for each day and
 | Split Squat | 35 lbs/hand | 4 sets | RPE 6-7 |
 | Shoulder Press | | 4 sets: 6, 6, 6, 9 | RPE 5, last set RPE 7 |
 | Seated Calf Raise | 55 lbs/side | | RPE 7 |
-| Incline Y Raise | | | |
+| Incline Y Raise | | 3x6 | RPE 7 |
 
 **What felt good:**
 
