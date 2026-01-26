@@ -37,8 +37,8 @@ Use this journal to log each workout session. Copy the template for each day and
 | Sumo Deadlift | 135 lbs | 5x5 | RPE 6 |
 | Dips | BW | 4 sets: 8, 8, 8, 6F | RPE 7 to failure |
 | Split Squat | 35 lbs/hand | 4 sets | RPE 6-7 |
-| Shoulder Press | | | |
-| Seated Calf Raise | | | |
+| Shoulder Press | | 4 sets: 6, 6, 6, 9 | RPE 5, last set RPE 7 |
+| Seated Calf Raise | 55 lbs/side | | RPE 7 |
 | Incline Y Raise | | | |
 
 **What felt good:**
