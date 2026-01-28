@@ -54,10 +54,11 @@ Use this journal to log each workout session. Copy the template for each day and
 **Energy Level:**
 **Sleep (hrs):**
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
+| Exercise | Duration/Sets | Notes |
+|----------|---------------|-------|
 | Bike | 1hr 10min | RPE 3-5 |
 | Run | 30 min | RPE 2 |
+| Pull-ups | 5x3 | RPE 5 |
 
 **What felt good:**
 
