@@ -59,6 +59,8 @@ Use this journal to log each workout session. Copy the template for each day and
 | Bike | 1hr 10min | RPE 3-5 |
 | Run | 30 min | RPE 2 |
 | Pull-ups | 5x3 | RPE 5 |
+| Nordic | 5x4 | RPE 6-7 |
+| External Rotations | 4x9 | RPE 7 |
 
 **What felt good:**
 
