@@ -58,13 +58,47 @@ Use this journal to log each workout session. Copy the template for each day and
 |----------|---------------|-------|
 | Bike | 1hr 10min | RPE 3-5 |
 | Run | 30 min | RPE 2 |
-| Pull-ups | 5x3 | RPE 5 |
-| Nordic | 5x4 | RPE 6-7 |
-| External Rotations | 4x9 | RPE 7 |
 
 **What felt good:**
 
 **What was challenging:**
+
+**Next session focus:**
+
+---
+
+### 2026-01-28 - Day 2 (Pull & Lower Hypertrophy)
+
+**Energy Level:**
+**Sleep (hrs):**
+
+| Exercise | Weight | Reps/Sets | Notes |
+|----------|--------|-----------|-------|
+| Run | | 30 min | RPE 2 |
+| Pull-ups | BW | 5x3 | RPE 5 |
+| Nordic | BW | 5x4 | RPE 6-7 |
+| External Rotations | | 4x9 | RPE 7 |
+
+**What felt good:**
+
+**What was challenging:**
+
+**Next session focus:**
+
+---
+
+### 2026-01-29 - Cardio
+
+**Energy Level:**
+**Sleep (hrs):**
+
+| Exercise | Duration | Notes |
+|----------|----------|-------|
+| Run | 55 min | RPE 3 |
+
+**What felt good:** Felt pretty good overall
+
+**What was challenging:** Light stiffness in lower body to begin, some inner shin tenderness
 
 **Next session focus:**
 
