@@ -1,6 +1,8 @@
 # WEEKLY FITNESS ROUTINE - 3x PER WEEK
 ## SUPERSET FORMAT
 
+<!-- Updated 2026-02-01: Removed RDL and Inverted Rows from Day 2 to fit 50-60 min sessions; Pull-ups progressed to 4-6 reps -->
+
 ---
 
 ## DAY 1 - Push & Lower Power
@@ -30,15 +32,13 @@
 
 | Block | Exercise | Sets | Reps | Weight/Load | Rest |
 |-------|----------|------|------|-------------|------|
-| **A** (Standalone) | **Pull-ups** | 5 | 3-6 | Bodyweight/assisted/negatives | 2-3 min |
-| **B** (Superset×4) | **B1. Romanian Deadlift** | 4 | 6-8 | 100% BW (or 60-75% BW) | 2 min after B2 |
+| **A** (Standalone) | **Pull-ups** | 5 | 4-6 | Bodyweight/assisted/negatives | 2-3 min |
+| **B** (Superset×4) | **B1. Nordic Curls** | 4-5 | Eccentric only | 5-sec lower w/ hand assist | 2 min after B2 |
 | | **B2. External Rotation** | 4 | 6-10 | 10% BW | |
-| **C** (Standalone) | **Nordic Curls** | 4-5 | Eccentric only | 5-sec lower w/ hand assist | 2-3 min |
-| **D** (Superset×3) | **D1. Inverted/DB Rows** | 3 | 8-12 | Bodyweight/DBs | 90 sec after D2 |
-| | **D2. Face Pulls** | 3 | 12-15 | Light weight | |
-| **E** (Standalone) | **Hanging Knee Raises** | 3 | 5-8 | Bodyweight (optional) | 60 sec |
+| **C** (Superset×3) | **C1. Face Pulls** | 3 | 12-15 | Light weight | 90 sec after C2 |
+| | **C2. Hanging Knee Raises** | 3 | 5-8 | Bodyweight | |
 
-**Total Time: ~45-50 minutes**
+**Total Time: ~35-40 minutes**
 
 ---
 
@@ -54,7 +54,7 @@
 |-------|----------|------|------|-------------|------|
 | **A** (Superset×4) | **A1. Split Squat** | 4 | 4-6 per leg | 25% BW per hand | 2 min after A2 |
 | | **A2. Dips** | 4 | 6-10 | Bodyweight (lighter volume) | |
-| **B** (Superset×4) | **B1. Pull-ups** | 4 | 3-5 | Bodyweight/negatives | 2 min after B2 |
+| **B** (Superset×4) | **B1. Pull-ups** | 4 | 4-6 | Bodyweight/negatives | 2 min after B2 |
 | | **B2. Shoulder Press** | 4 | 5-7 | 25% BW per hand | |
 | **C** (Superset×4) | **C1. Seated Calf Raise** | 4 | 8-12 | 50% BW | 60 sec after C2 |
 | | **C2. External Rotation** | 4 | 6-10 | 10% BW | |
